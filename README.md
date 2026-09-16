@@ -20,7 +20,7 @@ The machine is split into three separate physical local area networks (LANs), mi
 
 ## 📁 Repository Structure
 *   `neuromorphic-entity-blueprint.pdf` - The complete architectural description and hardware standard detailing the neuromorphic system.
-*   `system-architecture-diagram.jpg` - The complete system architecture blueprints detailing the 3-LAN layout, hardware bridges, and isolated return paths.
+*   `system-architecture-diagram.jpg` - The system architecture diagram detailing the 3-LAN layout, hardware bridges, and isolated return paths.
 
 ## ⚖️ License
 This project is licensed under the **CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)**. 
