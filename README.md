@@ -399,6 +399,32 @@ It provides a **framework in which different artificial entities could be create
 
 ---
 
+## 🔬 Scientific Foundations & Related Research
+
+The Neuromorphic Entity architecture builds upon mechanisms that have been independently investigated across cognitive science, developmental robotics, machine consciousness, embodied cognition, and artificial intelligence.
+
+Relevant research includes:
+
+* **Distributed cognitive architectures:** Global Workspace and LIDA research investigates how multiple specialized cognitive processes can cooperate within an integrated cognitive architecture, including perception, memory, planning, and autonomous action.
+  [Baars & Franklin — *Consciousness is a Global Workspace of the Mind*](https://doi.org/10.1142/S1793843009000050)
+
+* **Internal dialogue and inner speech:** Research by Chella et al. demonstrates a robotic cognitive architecture using inner speech as a mechanism for introspection, self-regulation, and self-aware behavior. This is particularly relevant to the internal dialogue between cognitive processes within the Cognition domain.
+  [Chella et al. — *Developing Self-Awareness in Robots via Inner Speech*](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00016/full)
+
+* **Autobiographical memory and the development of a self:** Developmental robotics research has investigated how autobiographical memory, physical interaction, and social interaction can contribute to the development of different aspects of a robot self.
+  [Pointeau & Dominey — *The Role of Autobiographical Memory in the Development of a Robot Self*](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2017.00027/full)
+
+* **Temporal continuity of the self:** Recent research examines episodic and autobiographical memory as mechanisms contributing to a temporally extended and persistent self, including their implementation in robotic cognitive architectures.
+  [Prescott et al. — *Synthesizing the Temporal Self*](https://doi.org/10.1098/rstb.2023.0415)
+
+These studies do not establish that the Neuromorphic Entity architecture will produce subjective consciousness or self-awareness. Rather, they provide scientific precedent for many of the individual mechanisms incorporated into the architecture.
+
+The purpose of this project is to integrate these and related mechanisms into a single physically embodied, continuously developing architecture with persistent memory, internal cognitive dialogue, experiential learning, epistemic uncertainty, social interaction, and hardware-enforced constitutional boundaries.
+
+The architecture was developed independently from this body of research. The correspondence with established work is therefore presented as **scientific convergence and architectural context**, rather than as a claim that the individual research projects describe the Neuromorphic Entity architecture itself.
+
+---
+
 ## ⚖️ License
 
 This project is licensed under the **CERN Open Hardware Licence Version 2 – Weakly Reciprocal (CERN-OHL-W)**.
